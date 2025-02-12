@@ -47,8 +47,6 @@ It uses boats to remove the pigmans form the mod cap to incres the rates will ki
 | Nugets| 1    |
 |  Swords| 1       |
 |  Flech| 1       |
-  
-   
 ## FaQ 
 1. Do you need to use tinted glass
 	- No you can use any block that is spownpref(glass, leths, slabs) 
