@@ -1,8 +1,6 @@
 # Gold farm
-- --
 
 ## Content 
-- --
 -  [Discription]()
 -  [Setup](https://sacgr.github.io/NicoGoldFarmGuid/#setup)
 -  [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it) 
