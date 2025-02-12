@@ -3,21 +3,19 @@
 
 ## Content 
 - --
--  Discription
--  Setup
--  How to use it 
--  Raits
--  FaQ 
+-  [Discription]()
+-  [Setup](https://sacgr.github.io/NicoGoldFarmGuid/#setup)
+-  [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it) 
+-  [Raits](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
+-  [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq) 
 
 
 
- ## Discription
-- --
+## Discription
 It is a gold form using the uses the player to lode in and kill the pigmans in one dimetion.   
 It uses boats to remove the pigmans form the mod cap to incres the rates will killing the mobs 
   
 ## Setup 
-- -- 
 ### General information
 - If lazy place the scamatic so that the top part of the glass is at build limit
 - If you want margenely better rates place it so that spown "Svär" seterd on wher you are standing will in the killing chamber isent loding in andy outher spowning placend underneth the nether rothe(Se photo 1)
@@ -40,12 +38,10 @@ It uses boats to remove the pigmans form the mod cap to incres the rates will ki
 - If your afrade of the leath burning replace them whit glass 
 - Use LonelyKat's guind the get in the boats [se link](https://youtu.be/GN_RV3ush94)
 - Enjo Nico's, LonelyKat's and MaggieDog's enginering
-- --
 ## How to use it 
 - Clime up the scafolding   
 - Hit the armerstand ant a freqensy of (somthing cant remember)
 - enjoy
--- -
 ## Rates
 | Item | Amount |
 |-----:|-----------|
@@ -55,7 +51,6 @@ It uses boats to remove the pigmans form the mod cap to incres the rates will ki
 |  Flech| 1       |
   
    
-- --
 ## FaQ 
 1. Do you need to use tinted glass
 	- No you can use any block that is spownpref(glass, leths, slabs) 
