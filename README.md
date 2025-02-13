@@ -7,11 +7,13 @@
 - [Raits](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
 - [Downlodes]()
 - [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
+
 ## Description
 It is a gold form that uses the player to lode in and kill the pigmans in one dimension.
 It uses boats to remove the pigmans form the mod cap to increase the rates will killing the mobs.
 The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gold Farm [Nerf Proof!]" *https://www.youtube.com/watch?v=nTSFuNXbjqo*
 ## Setup
+
 ### General information
 - If lazy place the schematic so that the top part of the glass is at build limit
 - If you want marginally better rates place it so that spawn "Svär" centered on where you are standing will in the killing chamber isn't loading in andy other spawning placed underneath the nether rothe(Se photo 1)
@@ -31,6 +33,7 @@ The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gol
 - If your afraid of the leath burning replace them with glass
 - Use LonelyKat's guide the get in the boats [se link](https://youtu.be/GN_RV3ush94)
 - Enjo Nico's, LonelyKat's and MaggieDog's engineering
+
 ## Compatibility
 ### Vanila
 | Update | Compatibility |
@@ -39,10 +42,12 @@ The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gol
 | >1.19| Compatible |
 ### Papper
 Worus on the stander profile but can be changed by plugins that the owner ands
+
 ## How to use it
 - Climb up the scaffolding
 - Hit the armor stand at a frequency of (something can't remember)
 - enjoy
+
 ## Rates
 | Item | Amount |
 |-----:|-----------|
@@ -50,6 +55,7 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 | Nuggets| 1 |
 | Swords| 1 |
 | Fletch| 1 |
+
 ## Downlodes
 |File | Link |
 |---:|--|
@@ -62,6 +68,7 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 	- No you can use any block that is spawn pref(glass, leths, slabs)
 2. Can it work on a paper server
 	- The design is compatible with standard paper but modification that the server owner dos to the server can change the behavior of it and therefore brake it
+
 ## Contact me
 |Method| link |
 |--:|--|
