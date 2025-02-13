@@ -5,8 +5,9 @@
 - [Compatebillety](https://sacgr.github.io/NicoGoldFarmGuid/#compatibility)
 - [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it)
 - [Raits](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
-- [Downlodes]()
+- [Downlodes](https://sacgr.github.io/NicoGoldFarmGuid/#downlodes)
 - [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
+- [Contact Me](https://sacgr.github.io/NicoGoldFarmGuid/#contact-me)
 
 ## Description
 It is a gold form that uses the player to lode in and kill the pigmans in one dimension.
@@ -69,7 +70,7 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 2. Can it work on a paper server
 	- The design is compatible with standard paper but modification that the server owner dos to the server can change the behavior of it and therefore brake it
 
-## Contact me
+## Contact Me
 |Method| link              |
 |-------:|--------------------|
 |Discord | SACGR             |
