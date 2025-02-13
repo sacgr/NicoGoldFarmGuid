@@ -11,7 +11,7 @@
 ## Description
 It is a gold form that uses the player to lode in and kill the pigmans in one dimension.
 It uses boats to remove the pigmans form the mod cap to increase the rates will killing the mobs.
-The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gold Farm [Nerf Proof!]" *https://www.youtube.com/watch?v=nTSFuNXbjqo*
+The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gold Farm [Nerf Proof!]" [*https://www.youtube.com/watch?v=nTSFuNXbjqo*](https://www.youtube.com/watch?v=nTSFuNXbjqo)
 ## Setup
 
 ### General information
