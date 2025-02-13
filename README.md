@@ -36,10 +36,10 @@ The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gol
 
 ## Compatibility
 ### Vanila
-| Update | Compatibility |
-|-----:|-----------|
-| <1.19| Need to replace the Chest Boat whit a normal boat|
-| >1.19| Compatible |
+| Update | Compatibility                                     |
+|--------|---------------------------------------------------|
+| <1.19  | Need to replace the Chest Boats whit normal boats |
+| >1.19  | Compatible                                        |
 ### Papper
 Worus on the stander profile but can be changed by plugins that the owner ands
 
@@ -77,12 +77,6 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 
 
 
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
 
 
 
