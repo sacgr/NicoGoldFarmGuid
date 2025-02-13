@@ -3,9 +3,11 @@
 ## Content 
 -  [Discription]()
 -  [Setup](https://sacgr.github.io/NicoGoldFarmGuid/#setup)
+-  [Compatebillety](https://sacgr.github.io/)
 -  [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it) 
 -  [Raits](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
 -  [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq) 
+
 
 
 
@@ -36,6 +38,17 @@ It uses boats to remove the pigmans form the mod cap to incres the rates will ki
 - If your afrade of the leath burning replace them whit glass 
 - Use LonelyKat's guind the get in the boats [se link](https://youtu.be/GN_RV3ush94)
 - Enjo Nico's, LonelyKat's and MaggieDog's enginering
+
+## Compatebillety
+### Vanila
+| Update | Compatebilety |
+|-----:|-----------|
+| <1.19| Need to replace the Chest Boat whit a normal boat|
+| >1.19| Compateble    |
+### Papper 
+Worus on the stander profill but can be shange by plogins that the owne ands 
+
+
 ## How to use it 
 - Clime up the scafolding   
 - Hit the armerstand ant a freqensy of (somthing cant remember)
@@ -43,7 +56,7 @@ It uses boats to remove the pigmans form the mod cap to incres the rates will ki
 ## Rates
 | Item | Amount |
 |-----:|-----------|
-| Gold| 1|
+| Gold| 1	|
 | Nugets| 1    |
 |  Swords| 1       |
 |  Flech| 1       |
