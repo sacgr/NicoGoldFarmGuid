@@ -5,10 +5,12 @@
 - [Compatebillety](https://sacgr.github.io/NicoGoldFarmGuid/#compatibility)
 - [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it)
 - [Raits](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
+- [Downlodes]()
 - [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
 ## Description
 It is a gold form that uses the player to lode in and kill the pigmans in one dimension.
-It uses boats to remove the pigmans form the mod cap to increase the rates will killing the mobs
+It uses boats to remove the pigmans form the mod cap to increase the rates will killing the mobs.
+The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gold Farm [Nerf Proof!]" *https://www.youtube.com/watch?v=nTSFuNXbjqo*
 ## Setup
 ### General information
 - If lazy place the schematic so that the top part of the glass is at build limit
@@ -39,7 +41,7 @@ It uses boats to remove the pigmans form the mod cap to increase the rates will 
 Worus on the stander profile but can be changed by plugins that the owner ands
 ## How to use it
 - Climb up the scaffolding
-- Hit the armor stand  at a frequency of (something can't remember)
+- Hit the armor stand at a frequency of (something can't remember)
 - enjoy
 ## Rates
 | Item | Amount |
@@ -48,9 +50,23 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 | Nuggets| 1 |
 | Swords| 1 |
 | Fletch| 1 |
+## Downlodes
+|File | Link |
+|---:|--|
+|Nicos farm | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/NIL%20Auto-Opti%20Gold%20Farm.litematic) |
+|LonelyKat Killing chamber | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/4%20way%20boat%20looting%20collection.litematic) |
+|MaggieDog farm | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/NIL%20Auto-Opti%20Gold%20Farm%20MD's%20cheap%20version.litematic) |
+| Storage system | contact me |
 ## FaQ
 1. Do you need to use tinted glass
 	- No you can use any block that is spawn pref(glass, leths, slabs)
+2. Can it work on a paper server
+	- The design is compatible with standard paper but modification that the server owner dos to the server can change the behavior of it and therefore brake it
+## Contact me
+|Method| link |
+|--:|--|
+|Discord | SACGR|
+| Email | capas.ros@gmail.com|
 
 
 
