@@ -70,10 +70,10 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 	- The design is compatible with standard paper but modification that the server owner dos to the server can change the behavior of it and therefore brake it
 
 ## Contact me
-|Method| link |
-|--:|--|
-|Discord | SACGR|
-| Email | capas.ros@gmail.com|
+|Method| link              |
+|-------:|--------------------|
+|Discord | SACGR             |
+| Email  | capas.ros@gmail.com|
 
 
 
