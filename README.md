@@ -2,7 +2,7 @@
 ## Content
 - [Description]()
 - [Setup](https://sacgr.github.io/NicoGoldFarmGuid/#setup)
-- [Compatebillety](https://sacgr.github.io/)
+- [Compatebillety](https://sacgr.github.io/NicoGoldFarmGuid/#compatibility)
 - [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it)
 - [Raits](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
 - [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
