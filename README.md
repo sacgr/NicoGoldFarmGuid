@@ -59,15 +59,15 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 |MaggieDog farm | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/NIL%20Auto-Opti%20Gold%20Farm%20MD's%20cheap%20version.litematic) |
 | Storage system | contact me |
 ## FaQ
-1. Do you need to use tinted glass
+- Do you need to use tinted glass
 	- No you can use any block that is spawn pref(glass, leths, slabs)
-2. Can it work on a paper server
+- Can it work on a paper server
 	- The design is compatible with standard paper but modification that the server owner dos to the server can change the behavior of it and therefore brake it 
-3. Why is there string in the schematic
+- Why is there string in the schematic
 	- The sting is placed as a interface layer round the "hat" to avoid priglins from pathinding on to that platform
-4. Why is the armor stand decaying
+- Why is the armor stand decaying
 	- The problem is that you are using a sword with fire aspect
-5. Can you use sole fire instead of magma blocks
+- Can you use sole fire instead of magma blocks
 	- Yes you can, but remember to fireproof the farm firs
 ## Contact Me
 |Method   | link               |
@@ -77,6 +77,6 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 ## To Fixe
 - Fix the charts
 - Add photos
-- update the formating fore of the QnA
+- update the formating one build instuctions
 - clerefy placmet instructions
 
