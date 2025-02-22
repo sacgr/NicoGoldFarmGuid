@@ -8,23 +8,21 @@
 - [Downlodes](https://sacgr.github.io/NicoGoldFarmGuid/#downlodes)
 - [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
 - [Contact Me](https://sacgr.github.io/NicoGoldFarmGuid/#contact-me)
-
 ## Description
 It is a gold form that uses the player to lode in and kill the pigmans in one dimension.
-It uses boats to remove the pigmans form the mod cap to increase the rates will killing the mobs.
-The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gold Farm [Nerf Proof!]" [*https://www.youtube.com/watch?v=nTSFuNXbjqo*](https://www.youtube.com/watch?v=nTSFuNXbjqo)
+It uses boats to remove the pigmans from the mod cap to increase the rates will killing the mobs.
+The farm was first described in Nicos video "How to Design the MOST Optimized Gold Farm [Nerf Proof!]" [*https://www.youtube.com/watch?v=nTSFuNXbjqo*](https://www.youtube.com/watch?v=nTSFuNXbjqo)
 ## Setup
-
 ### General information
-- If lazy place the schematic so that the top part of the glass is at build limit
-- If you want marginally better rates place it so that spawn "Svär" centered on where you are standing will in the killing chamber isn't loading in andy other spawning placed underneath the nether rothe(Se photo 1)
+- If lazy place the schematic so that the top part of the glass is at build limit, this inshors that you only need to spawn proof a small amount of aria under the bedrock roth
+- If you want marginally better rates place it lower but this mean that you need to spawn proof more of the aria under
+- The farm needs to be placed a [Nether Wastes](https://minecraft.wiki/w/Nether_Wastes)
 ### Nico's Design
 - Place the schematic in your selected spot
 - Somehow place in the boats
 - You can fill the platform around the killing chamber(Se photo 3)
 - Replace the wool block with a hopper stiking in the it with a storage system of you showing(Se photo 2)
-- Enjo Nico's engineering
-### Nico's design with LonelyKat's killing shamber
+### Nico's design with LonelyKat's killing chamber
 - Place the schematic in your selected spot
 - Replace the killing chamber with the one that LonelyKat design [se link](https://youtu.be/GN_RV3ush94)
 - Replace the wool block with a hopper stiking in the it with a storage system of you showing(Se photo 2)
@@ -34,21 +32,18 @@ The farm whas firs discripd in Nicos video "How to Design the MOST Optimized Gol
 - If your afraid of the leath burning replace them with glass
 - Use LonelyKat's guide the get in the boats [se link](https://youtu.be/GN_RV3ush94)
 - Enjo Nico's, LonelyKat's and MaggieDog's engineering
-
 ## Compatibility
 ### Vanila
 | Update | Compatibility                                     |
 |--------|---------------------------------------------------|
-| <1.19  | Need to replace the Chest Boats whit normal boats |
+| <1.19  | Need to replace the Chest Boats with normal boats |
 | >1.19  | Compatible                                        |
 ### Papper
 Worus on the stander profile but can be changed by plugins that the owner ands
-
 ## How to use it
 - Climb up the scaffolding
 - Hit the armor stand at a frequency of (something can't remember)
 - enjoy
-
 ## Rates
 | Item | Amount |
 |-----:|-----------|
@@ -56,7 +51,6 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 | Nuggets| 1 |
 | Swords| 1 |
 | Fletch| 1 |
-
 ## Downlodes
 |File | Link |
 |---:|--|
@@ -68,23 +62,21 @@ Worus on the stander profile but can be changed by plugins that the owner ands
 1. Do you need to use tinted glass
 	- No you can use any block that is spawn pref(glass, leths, slabs)
 2. Can it work on a paper server
-	- The design is compatible with standard paper but modification that the server owner dos to the server can change the behavior of it and therefore brake it
-
+	- The design is compatible with standard paper but modification that the server owner dos to the server can change the behavior of it and therefore brake it 
+3. Why is there string in the schematic
+	- The sting is placed as a interface layer round the "hat" to avoid priglins from pathinding on to that platform
+4. Why is the armor stand decaying
+	- The problem is that you are using a sword with fire aspect
+5. Can you use sole fire instead of magma blocks
+	- Yes you can, but remember to fireproof the farm firs
 ## Contact Me
 |Method   | link               |
 |--------:|--------------------|
 | Discord | SACGR              |
 | Email   | capas.ros@gmail.com|
-
 ## To Fixe
 - Fix the charts
 - Add photos
 - update the formating fore of the QnA
 - clerefy placmet instructions
-
-
-
-
-
-
 
