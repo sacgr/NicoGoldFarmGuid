@@ -1,3 +1,6 @@
+# Feedback pleas use the forme
+[Form](https://docs.google.com/forms/d/e/1FAIpQLSekAFAJUajBmffwR9o_1agXmcySfF0EH6NJD8WMmezmmFVdjw/viewform?usp=sharing)
+
 # Gold farm
 ## Content
 - [Description]()
