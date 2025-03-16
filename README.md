@@ -1,4 +1,4 @@
-# Feedback please use the form
+# For feedback, please use the form
 [Form](https://docs.google.com/forms/d/e/1FAIpQLSekAFAJUajBmffwR9o_1agXmcySfF0EH6NJD8WMmezmmFVdjw/viewform?usp=sharing)
 
 # Gold farm
