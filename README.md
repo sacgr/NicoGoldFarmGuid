@@ -9,12 +9,12 @@
 - [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it)
 - [Ratess](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
 - [Downlodes](https://sacgr.github.io/NicoGoldFarmGuid/#downloads)
-- [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
+- [faq](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
 - [Contact Me](https://sacgr.github.io/NicoGoldFarmGuid/#contact-me)
 ## Description
 It is a gold form that uses a player to load in and kill the pigmen in one dimension.
-It uses boats to remove the pigmen from the mod cap to increase the rates of killing the mobs.
-The farm was first described in Nicos video [*"How to Design the MOST Optimized Gold Farm [Nerf Proof!]"*](https://www.youtube.com/watch?v=nTSFuNXbjqo)
+It uses boats to remove the pigmen from the mob cap to increase the rates of killing the mobs.
+The farm was first described in Nico's video [*"How to Design the MOST Optimized Gold Farm [Nerf Proof!]"*](https://www.youtube.com/watch?v=nTSFuNXbjqo)
 ## Setup
 ### General information
 - If lazy, place the schematic so that the top part of the glass is at build limit, this insures that you only need to spawn proof a small amount of area under the bedrock roof
@@ -57,17 +57,17 @@ Works on the standard profile but can be changed by plugins that the owner adds,
 ## Downlods
 |File | Link |
 |---:|--|
-|Nicos farm | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/NIL%20Auto-Opti%20Gold%20Farm.litematic) |
+|Nico's farm | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/NIL%20Auto-Opti%20Gold%20Farm.litematic) |
 |LonelyKat Killing chamber | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/4%20way%20boat%20looting%20collection.litematic) |
 |MaggieDog farm | [link](https://github.com/sacgr/NicoGoldFarmGuid/raw/refs/heads/main/NIL%20Auto-Opti%20Gold%20Farm%20MD's%20cheap%20version.litematic) |
 | Storage system | contact me |
-## FaQ
+## faq
 - Do you need to use tinted glass?
 	- No, you can use any block that is spawn proof(glass, leaves, slabs, etc.)
 - Can it work on a paper server?
 	- The design is compatible with standard paper but modifications that the server owner does to the server can change the behavior of it and therefore breaks it 
 - Why is there string in the schematic?
-	- The sting is placed as a interface layer round the "hat" to avoid piglins from pathinding on to the platform
+	- The sting is placed as a interface layer round the "hat" to avoid piglins from path finding on to the platform
 - Why is the armor stand decaying?
 	- The problem is that you are using a sword with fire aspect
 - Can you use soul fire instead of magma blocks?
@@ -77,7 +77,7 @@ Works on the standard profile but can be changed by plugins that the owner adds,
 |--------:|--------------------|
 | Discord | SACGR              |
 | Email   | capas.ros@gmail.com|
-| Nicos server | https://discord.nicoislost.com/ |
+| Nico's server | https://discord.nicoislost.com/ |
 ## To Fix
 - Fix the charts
 - Add photos
